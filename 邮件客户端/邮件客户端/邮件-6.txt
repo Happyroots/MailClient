@@ -1,0 +1,293 @@
++OK 10761 octets
+Received: from out21-30.dm.aliyun.com (unknown [115.124.21.30])
+	by app2 (Coremail) with SMTP id BlB2ygAnLubOaLBhmKD8AA--.65172S3;
+	Wed, 08 Dec 2021 16:11:59 +0800 (CST)
+X-AliDM-RcptTo: eWFuZ2ppeWluQGRsbXUuZWR1LmNu
+Feedback-ID: default:fapiao@yjts.bwjf.cn:trigger:109386
+X-EnvId: 201177436598
+Received: from message-deployment-6b7ddcd7cd-ptwrh(mailfrom:fapiao@yjts.bwjf.cn fp:SMTPD_----0vL5.4V)
+          by smtpdm.aliyun.com(127.0.0.1);
+          Wed, 08 Dec 2021 15:56:54 +0800
+Date: Wed, 8 Dec 2021 15:56:54 +0800 (GMT+08:00)
+From: fapiao@yjts.bwjf.cn
+To: yangjiyin@dlmu.edu.cn
+Message-ID: 69e7e72185b0416082db867e36e97ec7
+Subject: =?UTF-8?B?5oKo5pS25Yiw5p2l6Ieq6IGa6aKG56eR5oqA?=
+ =?UTF-8?B?77yI5Y6m6Zeo77yJ5pyJ6ZmQ5YWs5Y+455qE?=
+ =?UTF-8?B?55S15a2Q5Y+R56Wo44CQ5Y+R56Wo5Y+356CBODA2NDY0MDTjgJE=?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_4187137_1682073067.1638950214189"
+X-CM-TRANSID:BlB2ygAnLubOaLBhmKD8AA--.65172S3
+Authentication-Results: app2; spf=pass smtp.mail=fapiao@yjts.bwjf.cn;
+X-Coremail-Antispam: 1UD129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7jjvjm3AaLaJ3UjIYCTnIWjp_UUUOq7k0a2IF6FyUM7kC6x804xWl14x267AK
+	xVWUJVW8JwAFIxvE14AKwVWUJVWUGwA2ocxC64kIII0Yj41l84x0c7CEw4AK67xGY2AK02
+	1l84ACjcxK6xIIjxv20xvE14v26r1j6r1xM28EF7xvwVC0I7IYx2IY6xkF7I0E14v26r1j
+	6r4UM28EF7xvwVC2z280aVAFwI0_Jr0_Gr1l84ACjcxK6I8E87Iv6xkF7I0E14v26r1j6r
+	4UM2AIxVAIcxkEcVAq07x20xvEncxIr21l5I8CrVAYj202j2C_Jr0_Gr1l5I8CrVAvF7xS
+	0VCYjI8vzVWUAwAqx4xG64kEw2xG04xIwI0_Gr0_Xr1l5I8CrVCF0I0E4I0vr24lYx0E2I
+	x0cI8IcVAFwI0_Jr0_Jr4lYx0Ex4A2jsIE14v26r1j6r4UMcvjeVCFs4IE7xkEbVWUJVW8
+	JwACjcxG0xvEwIxGrwACY4xI6c02F40Ez4kGawAKzVCjr7xvwVAFz4v204v26I0v724lw4
+	CEc2x0rVAKj4xxMx02cVCv0xWlc2IjII80xcxEwVAKI48JMxvI42IY6xIIjxv20xvE14v2
+	6r1j6r1xMxvI42IY6xIIjxv20xvEc7CjxVAFwI0_Jr0_Gr1lcIIF0xvEx4A2jsIE14v26r
+	1j6r4UMxvI42IY6I8E87Iv6xkF7I0E14v26r1j6r4UMxAIw28IcxkI7VAKI48JMxCjnVCj
+	jxCrMxC20s026xCaFVCjc4AY6r1j6r4UMI8I3I0E5I8CrVAFwI0_JrI_JrWlx2IqxVCjr7
+	xvwVAFwI0_Jr0_Jr4lx4CE17CEb7AF67AKxVWUJVWUXwCIc40Y0x0EwIxGrwCI42IY6xAI
+	w20EY4v20xvaj40_Wr1j6rW3JrUvcSsGvfC2KfnxnUUI43ZEXa7IUeoq2tUUUUU==
+
+------=_Part_4187137_1682073067.1638950214189
+Content-Type: multipart/related; 
+	boundary="----=_Part_4187138_1087973196.1638950214189"
+
+------=_Part_4187138_1087973196.1638950214189
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=3D"utf-8">
+    <title>=E7=94=B5=E5=AD=90=E9=82=AE=E4=BB=B6</title>
+    <style>
+        p {
+            margin: 0;
+        }
+        h4 {
+            margin: 0;
+            color: #616166;
+            font-weight: normal;
+        }
+        a,p {
+            color: #666666;
+        }
+        a,p,h4,span {
+            font-family: "=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91";
+            font-size: 14px;
+        }
+        .email-container {
+            width: 70%;
+            margin: 0 auto;
+            border: 1px solid #cacad0;
+        }
+        header {
+            background-image: url('https://dzfppt.oss-cn-beijing.aliyuncs.c=
+om/email/img/email_header.png');
+            height: 150px;
+        }
+        header p {
+            color: white;
+            padding: 60px;
+        }
+        .email-container section {
+            clear: both;
+            padding: 0 40px;
+        }
+        section .email_title {
+            height: 100px;
+        }
+        section .email_title a:hover {
+            cursor: pointer;
+            color: #3176df;
+            text-decoration: underline;
+        }
+        section .email_title h4 {
+            padding-top: 20px;
+            color: #333333;
+        }
+        section .email_title p {
+            display: block;
+            margin: 15px 0;
+        }
+        section .email_title a {
+            color: #3176df;
+            text-decoration: none;
+        }
+        section .email_row {
+            border: 1px solid #cacad0;
+            height: 180px;
+            background-color: #f5f7fa;
+        }
+        section .email_row .email_col {
+            padding-top: 20px;
+        }
+        section .email_row .email_col-7 {
+            text-align: center;
+            width: 15%;
+            float: left;
+        }
+        section .email_row .email_col-7 img {
+            width: 120px;
+            height: 120px;
+        }
+        section .email_row .email_col-7 p {
+            margin-bottom:20px;
+        }
+        section .email_row .email_col-17 {
+            width: 65%;
+            float: left;
+        }
+        section .email_row .email_col-17 p {
+            margin-bottom: 15px;
+            padding-left: 20px;
+        }
+        section .email_row .email_col-17 .email_p{
+            width: 40%;
+            float: left;
+        }
+        section .email_row .email_code {
+          padding-left: 15px;
+        }
+        section .email_row .email_col-17 p span {
+
+        }
+        section .email_row .email_col-17 p .email_span{
+            color: #3176df;
+            text-decoration: none;
+        }
+        .email_main {
+            margin-top: 20px;
+        }
+        .email_main a {
+            cursor: pointer;
+        }
+        .email_main .goto_bwyp {
+            display: block;
+            margin: 0 auto;
+            width: 100%;
+        }
+        .footer {
+            height: 50px;
+            color: #f6f6f6;
+            font-size: 12px;
+            padding: 10px 40px;
+        }
+        .footer div:first-child {
+            float: right;
+        }
+        .footer div:first-child p {
+            font-size: 13px;
+            line-height: 22px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+<div class=3D"email-container">
+    <header>
+        <p>=E4=BA=91=E7=A5=A8=E7=AE=A1=E5=AE=B6=E2=80=94=E2=80=94=E8=AE=A9=
+=E6=B8=A0=E9=81=93=E5=95=86=E6=8B=A5=E6=9C=89=E8=87=AA=E5=B7=B1=E7=9A=84=E6=
+=B6=89=E7=A8=8E=E8=BD=AF=E4=BB=B6</p>
+    </header>
+    <section>
+        <div class=3D"email_title">
+            <h4>=E5=B0=8A=E6=95=AC=E7=9A=84=E7=94=A8=E6=88=B7=EF=BC=8C=E6=
+=82=A8=E5=A5=BD=EF=BC=9A</h4>
+            <p>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;
+=09=09=09=E8=81=9A=E9=A2=86=E7=A7=91=E6=8A=80=EF=BC=88=E5=8E=A6=E9=97=A8=EF=
+=BC=89=E6=9C=89=E9=99=90=E5=85=AC=E5=8F=B8=E5=9C=A8
+                <b>2021=E5=B9=B412=E6=9C=8808=E6=97=A5</b>=E7=BB=99=E6=82=
+=A8=E5=BC=80=E5=85=B7=E4=BA=86=E4=B8=80=E5=BC=A0=E7=94=B5=E5=AD=90=E5=8F=91=
+=E7=A5=A8=EF=BC=8C
+                <a href=3D"https://dzfppt.oss-cn-beijing.aliyuncs.com/oss/i=
+nvoice/20211208/539895595c034edc8e5881d610849cfb.png" target=3D"_blank">=E6=
+=9F=A5=E7=9C=8B=E5=8F=91=E7=A5=A8</a>
+            </p>
+
+        </div>
+        <div class=3D"email_row">
+            <div class=3D"email_col email_col-17">
+                <p>=E8=B4=AD=E6=96=B9=E5=90=8D=E7=A7=B0=EF=BC=9A<span><b>=
+=E5=A4=A7=E8=BF=9E=E6=B5=B7=E4=BA=8B=E5=A4=A7=E5=AD=A6</b></span></p>
+
+                <p class=3D"email_p">=E5=BC=80=E7=A5=A8=E6=97=A5=E6=9C=9F=
+=EF=BC=9A<span>2021-12-08</span></p>
+                <p class=3D"email_p">=E5=8F=91=E7=A5=A8=E4=BB=A3=E7=A0=81=
+=EF=BC=9A<span>035022100111</span></p>
+                <p class=3D"email_p">=E5=BC=80=E7=A5=A8=E9=87=91=E9=A2=9D=
+=EF=BC=9A<span>180=E5=85=83</span></p>
+                <p class=3D"email_p">=E5=8F=91=E7=A5=A8=E5=8F=B7=E7=A0=81=
+=EF=BC=9A<span>80646404</span></p>
+                <p class=3D"email_p">=E5=8F=91=E7=A5=A8PDF=EF=BC=9A<a class=
+=3D"email_span" href=3D"https://www.bwjf.cn/smsDetail?fpdm=3D035022100111&f=
+phm=3D80646404&fplxdm=3D026&position=3D4&sign=3D2b31e001b44f8e4bd9aea48c19f=
+1b6fb8138990e" target=3D"_blank">=E4=B8=8B=E8=BD=BD=E5=8F=91=E7=A5=A8</a></=
+p>
+
+            </div>
+            <div class=3D"email_col email_col-7">
+              <img src=3D"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJQ=
+AAACUCAIAAAD6XpeDAAAEM0lEQVR42u3aW3bjMAwEUe9/084C
+5sRHRBcAxlP6zEOmdJmAbPD1yq73P1ft12s//P79wh/nyafX7lMe6ks88cRbxXufXOEonzxA7bF=
+r
+wNQcwqfg5zGLJ554l+CF467VoSc/TM2hvo84eor8zYsnnnjfgRfe8MkLrQlRb632rbDiiieeeP8=
+V
+3tHPUAEElQqFew9qoyKeeOLdjEd9cM3j6NPDAokv+qnxTMdj4oknXgkvrB9+BdyfTDdj/Yp44p3=
+g
+vaEr3CrgIS8VVQ+06OrvXDzxxNvACx8gfFm4PT5mvHcIjlk88cTbxRuoQ5PHIMI51JEjI1NQPPH=
+E
+uxCPShCoajFwnmxgGOEUPA6mxRNPvDY8PMgIc5m+kKLveAd+4EM88cS7GW8g0QiraRhShNLhYY5=
+w
+PPXTY+KJJ14/XrgCpu5DPRtVq/oOhOXbCfHEE28FL1+wJgtx6tnC5Xs4MDw5Oj49Jp544m3gUel=
+A
+uJLGgalkhIq8weWCeOKJt4I3uaSmqgV+DgzPQahCWz89Jp544rXhDaz+qUNj+GeFn44fyzje/Ig=
+n
+nngbeGECS8XQ+Bo9bE9eW/jr/TzxxBOPxuvLfykqqpCEiQ81TcM4RjzxxFvHG2hBhc9GpeEU+UA=
+E
+X4/HxBNPvDY8qvFP7RBC+3BgeerB5CPPhiGeeOKt4OH/7qmQFw87qG3AZJ3+PGbxxBNvBY+qeeG=
++
+4uhl1WoV+NaSWJzqJoonnnjreNS48UMPA282fPt4cvTwK+KJJ94K3kC2S71ZvOaF4Uu4X8qnjnj=
+i
+iXcJXl8r67aEhdr5DJTwpzVPPPHEG8QL/+9TjT28JYZnxH1R1GnBFk888VbwqBGsvLW+t9+XdFM=
+9
+P/HEE+9mPCqSwE9I1IpxbTb01fLyCkA88cRbwaNqFXUeoq/iUjcM31j4R/K0nyeeeOIN4q2ktFQ=
+1
+xSdc31YqP1gmnnjireDlt2CflqoxfXsGvJdZrpTiiSfeCl7NI1x/U0t86hzDZIxCpTDiiSfePXj=
+U
+6j/szJUPB7C7EbytSH2WeOKJt4XXFxyslMO+TmHthuEUbElYxBNPvAwPrxbU0hwvq2Hmgs+8PKA=
+R
+TzzxLsELR0k9AJ5HU/bU28//NsQTT7wVPKrr1tct6wuda0l3mLlQ1V088cS7B4967DCGxlOYgSp=
+I
+nSCp1zzxxBOvH4/Kf6mtQq3dNcAw0Oo73VeIJ554K3h9Z8Vu+/XJ/UnfCMUTT7x1vPAKu2XUAvq=
+0
+E4bsc6ieX/nO4okn3i5eWGOoncbk6YdaQ46aTPmMEU888S7B6+vuU70xKr8Idyx9hzAe3lk88cT=
+7
+DrywZPZFG9T86Mu1T3di4okn3pfhha0+6mDEJfWsY8aIJ554l+Dh/bO+mjcQ/YRjphL83mBaPPH=
+E
+K+G1nnNCSl2YI1PAkzuNz48snnjireC9vf7s9QPwUUijMp9ijAAAAABJRU5ErkJggg=3D=3D" s=
+tyle=3D"display:inline-block;width:120px;height:120px;" />
+              <p>=E9=A2=86=E7=A5=A8=E4=BA=8C=E7=BB=B4=E7=A0=81</p>
+            </div>
+            <div class=3D"email_col email_col-7 email_code">
+              <img src=3D"https://dzfppt.oss-cn-beijing.aliyuncs.com/email/=
+img/email_qrcode_spj.jpg" style=3D"display:inline-block;width:120px;height:=
+120px;"/>
+              <p>=E2=80=9C=E9=9A=8F=E7=A5=A8=E8=AE=B0=E2=80=9D=E5=85=AC=E4=
+=BC=97=E5=8F=B7</p>
+          </div>
+        </div>
+            <div class=3D"email_main">
+=09=09=09=09    <a href=3D"https://bwdp.jfscd.com/">
+=09=09=09=09=09    <img src=3D"https://dzfppt.oss-cn-beijing.aliyuncs.com/o=
+ss/model/advertScanInvoice/91q7jwqx.png" class=3D"goto_bwyp" />
+=09=09=09=09=09</a>
+            </div>
+    </section>
+
+    <footer class=3D"footer">
+        <div>
+            <p>=E6=9C=AC=E9=82=AE=E4=BB=B6=E7=94=B1=E7=B3=BB=E7=BB=9F=E8=87=
+=AA=E5=8A=A8=E5=8F=91=E5=87=BA=EF=BC=8C=E8=AF=B7=E5=8B=BF=E7=9B=B4=E6=8E=A5=
+=E5=9B=9E=E5=A4=8D</p>
+        </div>
+    </footer>
+</div>
+</body>
+</html>
+
+------=_Part_4187138_1087973196.1638950214189--
+
+------=_Part_4187137_1682073067.1638950214189--
+.

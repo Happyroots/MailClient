@@ -1,0 +1,172 @@
++OK 7983 octets
+X-CM-HeaderCharset: UTF-8
+From: <postmaster@dlmu.edu.cn>
+Sender: <postmaster@dlmu.edu.cn>
+To: =?UTF-8?B?5p2o57un6ZO2?= <yangjiyin@dlmu.edu.cn>
+Subject: =?UTF-8?Q?=E6=AC=A2=E8=BF=8E=E4=BD=BF=E7=94=A8Coremail=E7=94=B5=E5=AD=90?=
+ =?UTF-8?Q?=E9=82=AE=E4=BB=B6=E7=B3=BB=E7=BB=9F/Welcome_t?=
+ =?UTF-8?Q?o_the_Coremail_e-mail_system?=
+Content-Type: multipart/related;
+	boundary="----=_Part_5_3785408.1398161704198"
+MIME-Version: 1.0
+Message-ID: <483170467.1667.1632558575045@localhost>
+Date: Sat, 25 Sep 2021 16:29:35 +0800 (GMT+08:00)
+
+------=_Part_5_3785408.1398161704198
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div style=3D"width: 800px; font-family:=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=
+=91;">
+<div id=3D"head" style=3D"background-color: #0079B3;">
+<div style=3D"font-size: 35px; color: #FFFAFA; padding-top: 20px; padding-l=
+eft: 25px;">=E6=AC=A2=E8=BF=8E=E4=BD=BF=E7=94=A8Coremail=E7=94=B5=E5=AD=90=
+=E9=82=AE=E4=BB=B6=E7=B3=BB=E7=BB=9F</div>
+<div style=3D"color: #FFFAFA; padding-left: 28px; padding-bottom: 30px; pad=
+ding-top: 5px;">=E4=B8=8B=E9=9D=A2=E6=98=AF=E5=B8=AE=E5=8A=A9=E6=82=A8=E9=
+=AB=98=E6=95=88=E3=80=81=E5=AE=89=E5=85=A8=E4=BD=BF=E7=94=A8=E9=82=AE=E7=AE=
+=B1=E7=9A=84=E4=B8=80=E4=BA=9B=E6=8A=80=E5=B7=A7=EF=BC=9A</div>
+</div>
+<div id=3D"center">
+<table style=3D"font-family:=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91;">
+<tbody>
+
+<tr>
+<td style=3D"padding:15px" valign=3D"top">
+<img style=3D"width: 220px; height: 120px;" src=3D"http://mail.dlmu.edu.cn/=
+coremail/public/welcome/images/email.PNG">
+</td>
+<td style=3D"padding:15px;"><br>
+<font style=3D"font-size: 25px;font-weight:700;">=E7=94=B5=E5=AD=90=E9=82=
+=AE=E4=BB=B6</font>
+<div style=3D"padding-top: 14px;">
+<span><font style=3D"font-weight: bolder;line-height: 1.5;">=E9=87=8D=E8=A6=
+=81=E9=82=AE=E4=BB=B6=EF=BC=9A</font>=E5=B0=86=E6=82=A8=E4=BB=8E=E4=B8=80=
+=E5=A0=86=E6=9D=82=E4=B9=B1=E7=9A=84=E9=82=AE=E4=BB=B6=E4=B8=AD=E8=A7=A3=E6=
+=94=BE=E5=87=BA=E6=9D=A5=EF=BC=8C=E5=BF=AB=E9=80=9F=E5=A4=84=E7=90=86=E6=9C=
+=80=E9=87=8D=E8=A6=81=E7=9A=84=E9=82=AE=E4=BB=B6</span<br>
+<span><font style=3D"font-weight: bolder;line-height: 1.5;">=E9=99=84=E4=BB=
+=B6=E5=9C=A8=E7=BA=BF=E9=A2=84=E8=A7=88=EF=BC=9A</font>=E6=97=A0=E9=9C=80=
+=E4=B8=8B=E8=BD=BD=E9=99=84=E4=BB=B6=EF=BC=8C=E7=9B=B4=E6=8E=A5=E5=9C=A8=E7=
+=BA=BF=E9=98=85=E8=AF=BB</span><br>
+<span><font style=3D"font-weight: bolder;line-height: 1.5;">=E7=BE=A4=E5=8F=
+=91=E5=8D=95=E6=98=BE=EF=BC=9A</font>=E8=AE=A9=E6=AF=8F=E4=B8=AA=E6=94=B6=
+=E4=BB=B6=E4=BA=BA=E5=8F=AA=E7=9C=8B=E5=88=B0=E8=87=AA=E5=B7=B1=E7=9A=84=E5=
+=9C=B0=E5=9D=80</span><br>
+<span><font style=3D"font-weight: bolder;line-height: 1.5;">=E9=82=AE=E4=BB=
+=B6=E5=8F=AC=E5=9B=9E=EF=BC=9A</font>=E4=B8=80=E9=94=AE=E5=8F=AC=E5=9B=9E=
+=E9=94=99=E5=8F=91=E9=82=AE=E4=BB=B6</span>
+</div>
+</td>
+</tr>
+
+<tr>
+<td style=3D"padding:15px" valign=3D"top">
+<img style=3D"width: 220px; height: 120px;" src=3D"http://mail.dlmu.edu.cn/=
+coremail/public/welcome/images/schedule.PNG">
+</td>
+<td style=3D"padding:15px;"><br>
+<font style=3D"font-size: 25px;font-weight:700;">=E4=BC=9A=E8=AE=AE=E4=B8=
+=8E=E6=97=A5=E7=A8=8B</font>
+<div style=3D"padding-top: 14px;">
+<span><font style=3D"font-weight: bolder;line-height: 1.5;">=E4=BC=9A=E8=AE=
+=AE=E9=82=80=E8=AF=B7=EF=BC=9A</font>=E4=BB=A5=E9=82=AE=E4=BB=B6=E5=BD=A2=
+=E5=BC=8F=E5=AE=89=E6=8E=92=E4=BC=9A=E8=AE=AE=EF=BC=8C=E9=A2=84=E5=AE=9A=E4=
+=BC=9A=E8=AE=AE=E5=AE=A4=EF=BC=8C=E5=B9=B6=E5=AE=9E=E6=97=B6=E8=8E=B7=E5=BE=
+=97=E4=B8=8E=E4=BC=9A=E8=80=85=E7=9A=84=E5=8F=8D=E9=A6=88</span<br>
+<span><font style=3D"font-weight: bolder;line-height: 1.5;">=E6=97=A5=E7=A8=
+=8B=E5=90=8C=E6=AD=A5=EF=BC=9A</font>=E4=BF=9D=E6=8C=81=E6=97=A5=E7=A8=8B=
+=E5=9C=A8=E4=B8=8D=E5=90=8C=E8=AE=BE=E5=A4=87=E9=97=B4=E7=9A=84=E5=AE=9E=E6=
+=97=B6=E5=90=8C=E6=AD=A5=EF=BC=8C=E4=BD=86=E5=9C=A8=E7=A7=BB=E5=8A=A8=E8=AE=
+=BE=E5=A4=87=E9=97=B4=E7=9A=84=E5=90=8C=E6=AD=A5=E9=9C=80<br>=E8=A6=81=E8=
+=B4=AD=E4=B9=B0Coremail Push</span><br>
+<span><font style=3D"font-weight: bolder;line-height: 1.5;">=E6=97=A5=E7=A8=
+=8B=E6=8F=90=E9=86=92=EF=BC=9A</font>=E5=AE=89=E6=8E=92=E6=97=A5=E5=B8=B8=
+=E8=A1=8C=E7=A8=8B=EF=BC=8C=E5=8F=AF=E9=80=9A=E8=BF=87=E5=A4=9A=E7=A7=8D=E6=
+=96=B9=E5=BC=8F=E6=8E=A5=E6=94=B6=E8=87=AA=E5=AE=9A=E4=B9=89=E6=8F=90=E9=86=
+=92</span>
+</div>
+</td>
+</tr>
+
+<tr>
+<td style=3D"padding:15px" valign=3D"top">
+<img style=3D"width: 220px; height: 120px;" src=3D"http://mail.dlmu.edu.cn/=
+coremail/public/welcome/images/safeguard.PNG">
+</td>
+<td style=3D"padding:15px;"><br>
+<font style=3D"font-size: 25px;font-weight:700;">=E5=AE=89=E5=85=A8=E4=BF=
+=9D=E6=8A=A4</font>
+<div style=3D"padding-top: 14px;">
+<span><font style=3D"font-weight: bolder;line-height: 1.5;">=E8=87=AA=E5=8A=
+=A9=E6=9F=A5=E8=AF=A2=EF=BC=9A</font>=E4=BA=86=E8=A7=A3=E9=82=AE=E7=AE=B1=
+=E7=9A=84=E7=99=BB=E5=BD=95=E4=B8=8E=E5=8F=91=E4=BF=A1=E7=8A=B6=E5=86=B5=EF=
+=BC=8C=E4=BB=A5=E5=8F=8A=E4=B8=AD=E8=BD=AC=E7=AB=99=E6=96=87=E4=BB=B6=E4=B8=
+=8B=E8=BD=BD=E7=8A=B6=E5=86=B5</span<br>
+<span><font style=3D"font-weight: bolder;line-height: 1.5;">=E5=85=A8=E5=AF=
+=86=E7=A0=81=E4=BF=9D=E6=8A=A4=EF=BC=9A</font>=E6=8F=90=E4=BE=9B=E9=82=AE=
+=E4=BB=B6=E6=AD=A3=E6=96=87=E5=AF=86=E7=A0=81=E3=80=81=E6=96=87=E4=BB=B6=E5=
+=A4=B9=E5=8D=95=E7=8B=AC=E5=AF=86=E7=A0=81=E3=80=81=E7=BD=91=E7=9B=98=E5=AF=
+=86=E7=A0=81=E3=80=81=E9=94=81=E5=B1=8F=E5=AF=86=E7=A0=81=E3=80=81<br>=E5=
+=8A=A8=E6=80=81=E5=AF=86=E4=BF=9D(=E7=A1=AC=E4=BB=B6KEY) =E7=AD=89=E5=AF=86=
+=E7=A0=81=E4=BF=9D=E6=8A=A4=E6=8E=AA=E6=96=BD</span><br>
+<span><font style=3D"font-weight: bolder;line-height: 1.5;">=E5=AE=89=E5=85=
+=A8=E6=8F=90=E9=86=92=EF=BC=9A</font>=E5=8C=85=E5=90=AB=E5=BC=82=E5=9C=B0=
+=E7=99=BB=E5=BD=95=E6=8F=90=E9=86=92=E3=80=81=E8=87=AA=E5=8A=A8=E8=BD=AC=E5=
+=8F=91=E6=8F=90=E9=86=92=E3=80=81=E5=9E=83=E5=9C=BE=E9=82=AE=E4=BB=B6=E6=8F=
+=90=E9=86=92=E7=AD=89=E5=AE=89=E5=85=A8=E6=8F=90=E7=A4=BA</span>
+</div>
+</td>
+</tr>
+
+<tr>
+<td style=3D"padding:15px" valign=3D"top">
+<img style=3D"width: 220px; height: 120px;" src=3D"http://mail.dlmu.edu.cn/=
+coremail/public/welcome/images/support.PNG">
+</td>
+<td style=3D"padding:15px;"><br>
+<font style=3D"font-size: 25px;font-weight:700;">=E6=94=AF=E6=8C=81=E7=A7=
+=BB=E5=8A=A8=E8=AE=BE=E5=A4=87</font>
+<div style=3D"padding-top: 14px;">
+<span><font style=3D"font-weight: bolder;line-height: 1.5;">=E7=A7=BB=E5=8A=
+=A8=E8=AE=BE=E5=A4=87=E4=B8=93=E5=B1=9E=E6=A8=A1=E6=9D=BF=EF=BC=9A</font>=
+=E6=8F=90=E4=BE=9B iPhone/iPad/Android =E4=B8=93=E5=B1=9E=E6=A8=A1=E6=9D=BF=
+</span<br>
+<span><font style=3D"font-weight: bolder;line-height: 1.5;">Coremail Push=
+=EF=BC=9A</font>=E6=8F=90=E4=BE=9B=E7=9B=AE=E5=89=8D=E4=BC=81=E4=B8=9A=E7=
+=94=B5=E5=AD=90=E9=82=AE=E4=BB=B6=E5=B8=82=E5=9C=BA=E4=B8=8A=E6=9C=80=E4=BD=
+=B3=E7=9A=84=E7=A7=BB=E5=8A=A8=E5=8A=9E=E5=85=AC=E4=BD=93=E9=AA=8C=EF=BC=8C=
+<br>=E9=82=AE=E4=BB=B6=E5=AE=9E=E6=97=B6=E6=8E=A8=E9=80=81=EF=BC=8C=E6=94=
+=AF=E6=8C=81=E9=82=AE=E4=BB=B6=E3=80=81=E6=97=A5=E7=A8=8B=E3=80=81=E9=80=9A=
+=E8=AE=AF=E5=BD=95=E7=AD=89=E5=A4=9A=E6=95=B0=E6=8D=AE=E7=9A=84=E5=85=A8=E7=
+=BB=88=E7=AB=AF=E5=90=8C=E6=AD=A5</span><br>
+</div>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+<div id=3D"footer" style=3D"padding-top: 50px;padding-bottom: 40px;">
+<table style=3D"font-family:=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91;">
+<tbody><tr>
+<td style=3D"padding:12px">
+<img style=3D"width: 230px; height: 69px;" src=3D"http://mail.dlmu.edu.cn/c=
+oremail/public/welcome/images/logo.PNG">
+</td>
+<td style=3D"padding:12px">
+<span style=3D"font-size: 20px;">=E5=BC=80=E5=A7=8B=E6=82=A8=E7=9A=84=E6=8E=
+=A2=E7=B4=A2=E5=90=A7=EF=BC=8C=E7=A5=9D=E6=82=A8=E5=B7=A5=E4=BD=9C=E6=84=89=
+=E5=BF=AB=EF=BC=81<br>Coremail =E6=8A=80=E6=9C=AF=E5=9B=A2=E9=98=9F=E6=95=
+=AC=E4=B8=8A</span>
+</td>
+<td style=3D"padding:12px">
+</td>
+</tr>
+</tbody></table>
+</div>
+
+</div>
+
+
+------=_Part_5_3785408.1398161704198--
+.
